@@ -1,0 +1,2 @@
+D:\Laby 4 sem\OOP\2DGame\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Laby 4 sem\OOP\2DGame\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
